@@ -2,6 +2,7 @@
 **Spatial Attention Guided Residual Attention Network for Hyperspectral Image Classification** [Source](https://ieeexplore.ieee.org/abstract/document/9684915)  
 Authors: Ningyang Li, Zhaohui Wang  
 Journal: IEEE Access  
+Environment: Python 3.6., Tensorflow 2.2.2, Keras 2.2.2, Numpy 1.19.  
 
 **Abstract:**  
 Hyperspectral image (HSI) classification has become a research hotspot. Recently, deep learning-based methods have achieved preferable performances by which the deep spectral-spatial features can be extracted from HSI cubes. However, in complex scenes, due to the diversity of the types of landcover and the bands in high dimensional, these methods are often hampered by the irrelevant spatial areas and the redundant bands, which results in the indistinguishable features and the restricted performance. In this article, a spatial attention guided residual attention network (SpaAG-RAN) is proposed for HSI
