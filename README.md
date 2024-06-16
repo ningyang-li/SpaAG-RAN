@@ -1,2 +1,6 @@
 # SpaAG-RAN
-A spatial attention guided residual attention network for hyperspectral image classification
+Title: Spatial Attention Guided Residual Attention Network for Hyperspectral Image Classification  
+Authors: Ningyang Li, Zhaohui Wang  
+Journal: IEEE Access  
+
+
