@@ -1,3 +1,5 @@
+**This article is my first work published in an SCI journal. To be honest, there must be some deficiencies in technical innovation and English writting. I will keep working hard in this field. Please feel free to comment if you find any problems. : )**
+
 # SpaAG-RAN
 **Spatial Attention Guided Residual Attention Network for Hyperspectral Image Classification** [Source](https://ieeexplore.ieee.org/abstract/document/9684915)  
 Authors: Ningyang Li, Zhaohui Wang  
@@ -18,5 +20,4 @@ classification, which contains a spatial attention module (SpaAM), a spectral at
 **Citation:**  
 N. Li and Z. Wang, "Spatial Attention Guided Residual Attention Network for Hyperspectral Image Classification," IEEE Access, vol. 10, pp. 9830-9847, 2022, doi: 10.1109/ACCESS.2022.3144393.
 
-**Note:**  
-**This article is my first work published in an SCI journal. To be honest, there must be some deficiencies in technical innovation and English writting. I will keep working hard in this field. Please feel free to comment if you find any problems. : )**
+
