@@ -1,4 +1,4 @@
-**This article is my first work published in an SCI journal. To be honest, there must be some deficiencies in technical innovation and English writting. I will keep working hard in this field. Please feel free to comment if you find any problems. : )**
+**This article is my first work published on an SCI journal. To be honest, there must be some deficiencies in technical innovation and English writting. I will keep working hard in this field. Please feel free to comment if you find any problems. : )**
 
 # SpaAG-RAN
 **Spatial Attention Guided Residual Attention Network for Hyperspectral Image Classification** [Source](https://ieeexplore.ieee.org/abstract/document/9684915)  
