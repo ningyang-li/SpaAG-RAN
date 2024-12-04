@@ -20,4 +20,15 @@ classification, which contains a spatial attention module (SpaAM), a spectral at
 **Citation:**  
 N. Li and Z. Wang, "Spatial Attention Guided Residual Attention Network for Hyperspectral Image Classification," IEEE Access, vol. 10, pp. 9830-9847, 2022, doi: 10.1109/ACCESS.2022.3144393.
 
+<code>@ARTICLE{9684915,
+  author={Li, Ningyang and Wang, Zhaohui},
+  journal={IEEE Access}, 
+  title={Spatial Attention Guided Residual Attention Network for Hyperspectral Image Classification}, 
+  year={2022},
+  volume={10},
+  number={},
+  pages={9830-9847},
+  keywords={Feature extraction;Hyperspectral imaging;Correlation;Convolutional neural networks;Training;Data mining;Computational modeling;Hyperspectral image classification;attention mechanism;deep learning;spatial attention;residual network},
+  doi={10.1109/ACCESS.2022.3144393}}
+</code>
 
